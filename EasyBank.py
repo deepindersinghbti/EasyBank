@@ -128,7 +128,7 @@ def login_operations():
             if existing_password == user_data[1]:
                 print("Access Granted!")
                 print("Select an option:")
-                print("1. Add funds")
+                print("1. Deposit funds")
                 print("2. Withdraw funds")
                 print("3. Transfer funds")
                 print("4. Check balance")
